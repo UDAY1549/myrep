@@ -1,7 +1,7 @@
 package com.rgb.beans;
 
 public class Account {
-
+//Add my comments into the project
 	private Integer accountId;
 	private String accountNumber;
 	private Integer branchId;
